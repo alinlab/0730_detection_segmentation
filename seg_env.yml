@@ -1,0 +1,12 @@
+name: 0730_segmentation
+channels:
+  - defaults
+dependencies:
+  - pydot
+  - graphviz
+  - pip:
+    - python=3.7
+    - jupyterlab
+    - matplotlib
+    - tensorflow-gpu
+    - tfds-nightly
