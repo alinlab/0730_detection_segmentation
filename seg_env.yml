@@ -10,4 +10,3 @@ dependencies:
     - matplotlib
     - tensorflow-gpu
     - tfds-nightly
-prefix: /home/hankook/anaconda3/envs/seg_tutorial
