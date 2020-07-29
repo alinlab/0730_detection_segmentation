@@ -12,4 +12,3 @@ dependencies:
     - tensorflow-gpu==1.14.0
     - opencv-python
     - tensorflow-plot
-prefix: /home/jaehyung/anaconda3/envs/det_tutorial
