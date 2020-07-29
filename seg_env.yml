@@ -10,3 +10,4 @@ dependencies:
     - matplotlib
     - tensorflow-gpu
     - tfds-nightly
+prefix: https://raw.githubusercontent.com/alinlab/0730_detection_segmentation/master/seg_env.yml
