@@ -4,7 +4,7 @@
 
 실습 일시: 2020년 7월 30일 (목), 13:30 - 17:30
 
-담당 조교: 김재형 (???@kaist.ac.kr), 이한국 (hankook.lee@kaist.ac.kr)
+담당 조교: 김재형 (jaehyungkim@kaist.ac.kr), 이한국 (hankook.lee@kaist.ac.kr)
 
 ## Part I: Object Detection
 
