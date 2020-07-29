@@ -8,5 +8,5 @@ dependencies:
   - pip:
     - jupyterlab
     - matplotlib
-    - tensorflow-gpu
+    - tensorflow-gpu==2.0.0
     - tfds-nightly
