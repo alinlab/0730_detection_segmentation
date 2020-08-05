@@ -1,4 +1,4 @@
-# 0730_detection_segmentation
+# 0806_detection_segmentation
 
 # 삼성 DS-KAIST AI Expert 프로그램 
 
