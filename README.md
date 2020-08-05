@@ -11,7 +11,7 @@
 (주의) 해당 폴더의 파일이 아닌, 다음 경로로 이동하여 배치된 파일을 사용해주세요.
 ```
 cd ~/
-cd 0730_detection/tools # 최신 버전 detection.ipynb 및 솔루션 파일이 배치되어있습니다.
+cd 0806_detection/tools # 최신 버전 detection.ipynb 및 솔루션 파일이 배치되어있습니다.
 ```
 
 
